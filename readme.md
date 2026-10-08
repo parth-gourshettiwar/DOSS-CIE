@@ -1,1 +1,1 @@
-This is our devops cie project to showcase devops tools
+this process will help to show the merge process
